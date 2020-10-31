@@ -12,3 +12,5 @@ publish = false
 
 [dependencies]
 clap = "~2.33.3"
+directories = "~3.0.1"
+walkdir = "~2.3.1"
